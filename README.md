@@ -1,5 +1,6 @@
-<img width="1003" height="846" alt="image" src="https://github.com/user-attachments/assets/b6651698-87da-4e82-8eb3-ff51c4c2f6aa" />
+<img width="657" height="299" alt="image" src="https://github.com/user-attachments/assets/9f4408d3-92b2-4416-a343-91f5ef8e7e98" />
 
 Rommy is a ROM patcher. It supports ips, bps, ups, aps, ppf, rup, xdelta, vcdiff and xd.
 
-Some AI was used for research and to fix errors with PPF and xDelta files. Comments are included to mark such instances. 
+Some AI was used for research and to fix errors with PPF and xDelta files. Comments are included to mark such instances. Art was made using google images and Photopea.
+
