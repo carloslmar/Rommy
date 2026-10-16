@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Game;Emulator;Qt;KDE;
+Comment[en_US]=Apply patches in a multitude of formats to ROMs
+Comment=Apply patches in a multitude of formats to ROMs
+Exec=rommy
+GenericName[en_US]=rommy
+GenericName=rommy
+Icon=io.github.carlos.Rommy
+MimeType=
+Name[en_US]=Rommy
+Name=Rommy
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
